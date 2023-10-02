@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(0, 110, 255)
+}
+h1{
+    color:chartreuse;
+    font-weight:bold;
+}
+h2{
+    color:white;
+}
+h5{
+    color:chartreuse;
+    font-weight:bold;
+}
+.exercize-img{
+    border:6px solid rgb(0, 247, 255);
+    border-radius:20px;
+}
+.eating-img{
+    border:6px solid red;
+    border-radius:20px;
+}
+.rest-img{
+    border:6px solid rgb(60, 0, 255);
+    border-radius:20px;
+}
+.exercize-text{
+    color:rgb(0, 247, 255);
+}
+.eating-text{
+    color:red;
+}
+.rest-text{
+    color:rgb(60, 0, 255);
+}
+li{
+    color:white;
+}
+.back-button{
+    float:right;
+}
